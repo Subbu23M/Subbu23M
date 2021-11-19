@@ -20,7 +20,7 @@ Hello, Everyone :raised_hand_with_fingers_splayed:
 
 ---
 
-**I use these Sites to generate Static sites**
+**I use these Sites to host my Websites**
 
 ![netlify-logo](https://user-images.githubusercontent.com/57181459/122751660-ae471000-d2ad-11eb-8bf2-0611a5c698d3.jpg)
 ![vercl-logo](https://user-images.githubusercontent.com/57181459/122751671-b1da9700-d2ad-11eb-8090-923a91c14b04.png)
