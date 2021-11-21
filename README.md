@@ -35,4 +35,4 @@ You can reach me :e-mail: subbuvenkat2495@gmail.com
 
 
 My Social Media Platforms,
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg' alt='quora' target='_blank' height='40'>](https://www.quora.com/profile/Subramanyam-Sreshty-D) [<img src='https://findicons.com/files/icons/1982/social_me/60/linkedin.png' height='40' alt='linkedin-logo'/>](https://www.linkedin.com/in/subramanyam-sreshty-d-b16aa21b4/")
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg' alt='quora' height='30'>](https://www.quora.com/profile/Subramanyam-Sreshty-D) [<img src='https://findicons.com/files/icons/1982/social_me/60/linkedin.png' height='30' alt='linkedin-logo'/>](https://www.linkedin.com/in/subramanyam-sreshty-d-b16aa21b4/")
