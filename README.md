@@ -6,7 +6,7 @@ Hello, Everyone :raised_hand_with_fingers_splayed:
 
 :fountain_pen: My Hobbies : Watching News Channels and Spiritual Channels :tv:, Reading Newspapers :newspaper_roll: and go for a walk everyday atleast 30 minutes :walking_man:
 
-:point_right: I am Thankful to trainers :man_teacher: John Smilga,Gary Simon,Dev ED,Beau Carnes for providing Web Technologies tutorials and DCT Academy because of you only i gained knowledge and implemented the concepts.
+:point_right: I am Thankful to trainers :man_teacher: John Smilga,Gary Simon,Dev ED,Beau Carnes,Candra Kriswinarto,Jessica for providing Web Technologies tutorials and DCT Academy because of you only i gained knowledge and implemented the concepts.
 
 ---
 
