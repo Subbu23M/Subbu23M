@@ -1,12 +1,12 @@
 Hello, Everyone :raised_hand_with_fingers_splayed:
 
-* This is **Subramanyam Sreshty.D** :man_technologist:   from Kadapa, Andhra Pradesh, South India :india:.
+* This is **Subramanyam Sreshty.D** :man_technologist:   from Kadapa, Andhra Pradesh, South India : India:
 
-* Having interest in building Responsive Websites,Web and Mobile Applications i started learning Web Technologies from different Online resources, after practicing i store my projects source code in Github :octocat:.
+* Having an interest in building Responsive Websites, Web and Mobile Applications I started learning Web Technologies from different Online resources, after practicing I store my project's source code in Github :octocat:.
 
-:fountain_pen: My Hobbies : Watching News Channels,Spiritual Channels :tv:, Reading Newspapers :newspaper_roll: and go for a walk everyday atleast 30 minutes :walking_man:
+:fountain_pen: My Hobbies: Watching News Channels, Spiritual Channels :tv: Reading Newspapers :newspaper_roll: and go for a walk every day for at least 30 minutes :walking_man:
 
-:point_right: I am Thankful to trainers :man_teacher: Quincy Larson,John Smilga,Gary Simon,Dev ED,Beau Carnes,Candra Kriswinarto,Jessica for providing Web Technologies tutorials and DCT Academy because of you only i gained knowledge and implemented the concepts.
+:point_right: I am Thankful to trainers :man_teacher: Quincy Larson, John Smilga, Gary Simon,Dev ED, Beau Carnes, Candra Kriswinarto, and Jessica for providing Web Technologies tutorials and DCT Academy because of you only I gained knowledge and implemented the concepts.
 
 ---
 
@@ -22,10 +22,10 @@ Hello, Everyone :raised_hand_with_fingers_splayed:
 ---
 
 **Work-Experience**
-  * Worked as Full Stack Web Developer in Minutes To Seconds Pvt Ltd (June 2022 - Still Working).
+  * Worked as Frontend Web Developer in Minutes To Seconds Pvt Ltd (13 Months).
   * UI Intern Trainee at Digi Sprint Solutions (3 months).
   * Frontend React Trainee at DCT Academy (5 months).
-  * Worked as On Page SEO Executive in Namaste Technology (5 months).
+  * Worked as On-Page SEO Executive in Namaste Technology (5 months).
   *	Worked as Front End Web Developer in GMAC Web India (1 month).	
  ---
 
@@ -39,7 +39,7 @@ Hello, Everyone :raised_hand_with_fingers_splayed:
 ---
 **Contact Details** <br/>
 :calling: Contact Number: +91-8639301953 <br/>
-You can reach me :e-mail: subbuvenkat2495@gmail.com
+You can reach me: by e-mail: at subbuvenkat2495@gmail.com
 
 
 My Social Media Platforms,
