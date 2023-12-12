@@ -2,7 +2,7 @@ Hello, Everyone :raised_hand_with_fingers_splayed:
 
 * This is **Subramanyam Sreshty.D** :man_technologist:   from Kadapa, Andhra Pradesh, South India : India:
 
-* Having an interest in building Responsive Websites, Web and Mobile Applications I started learning Web Technologies from different Online resources, after practicing I store my project's source code in Github :octocat:.
+* Having an interest in building Responsive Websites and web and Mobile Applications I started learning Web Technologies from different Online resources, after practicing I stored my project's source code in Github :octocat:.
 
 :fountain_pen: My Hobbies: Watching News Channels, Spiritual Channels :tv: Reading Newspapers :newspaper_roll: and go for a walk every day for at least 30 minutes :walking_man:
 
@@ -23,10 +23,7 @@ Hello, Everyone :raised_hand_with_fingers_splayed:
 
 **Work-Experience**
   * Worked as Frontend Web Developer in Minutes To Seconds Pvt Ltd (13 Months).
-  * UI Intern Trainee at Digi Sprint Solutions (3 months).
-  * Frontend React Trainee at DCT Academy (5 months).
-  * Worked as On-Page SEO Executive in Namaste Technology (5 months).
-  *	Worked as Front End Web Developer in GMAC Web India (1 month).	
+  * Worked as UI Developer as a Freelancer (12 Months).
  ---
 
 **I use these Sites to host my Websites**
