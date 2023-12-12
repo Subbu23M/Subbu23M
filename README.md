@@ -1,10 +1,10 @@
 Hello, Everyone :raised_hand_with_fingers_splayed:
 
-* This is **Subramanyam Sreshty.D** :man_technologist:   from Kadapa, Andhra Pradesh, South India : India:
+* This is **Subramanyam Sreshty.D** 👨‍💻:   from Bangalore,Karnataka.
 
-* Having an interest in building Responsive Websites and web and Mobile Applications I started learning Web Technologies from different Online resources, after practicing I stored my project's source code in Github :octocat:.
+* Having an interest in building Responsive Websites and web and Mobile Applications I started learning Web Technologies from different Online resources, after practicing I stored my project's source code in Github :octocat:
 
-:fountain_pen: My Hobbies: Watching News Channels, Spiritual Channels :tv: Reading Newspapers :newspaper_roll: and go for a walk every day for at least 30 minutes :walking_man:
+🖋️ My Hobbies: Watching News Channels, Spiritual Channels :tv: Reading Newspapers 🗞️ and going for a walk every day for at least 30 minutes 🚶‍♂️
 
 :point_right: I am Thankful to trainers :man_teacher: Quincy Larson, John Smilga, Gary Simon, Dev ED, Beau Carnes, Candra Kriswinarto, and Jessica for providing Web Technologies tutorials and DCT Academy because of you only I gained knowledge and implemented the concepts.
 
