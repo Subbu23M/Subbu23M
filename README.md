@@ -22,8 +22,8 @@ Hello, Everyone :raised_hand_with_fingers_splayed:
 ---
 
 **Work-Experience**
-  * Worked as Frontend Web Developer in Minutes To Seconds Pvt Ltd (13 Months).
-  * Worked as UI Developer as a Freelancer (12 Months).
+  * Worked as Frontend Web Developer in Minutes To Seconds Pvt Ltd (21 Months).
+  * Worked as UI Developer as a Freelancer (14 Months).
  ---
 
 **I use these Sites to host my Websites**
