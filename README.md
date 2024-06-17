@@ -36,8 +36,7 @@ Hello, Everyone :raised_hand_with_fingers_splayed:
 ---
 **Contact Details** <br/>
 :calling: Contact Number: +91-8639301953 <br/>
-You can reach me: by e-mail: at subbuvenkat2495@gmail.com
-
+You can reach me: by e-mail: at subramanyamdindukurthi26m@gmail.com
 
 My Social Media Platforms,
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg' alt='quora' height='30'>](https://www.quora.com/profile/Subramanyam-Sreshty-D) [<img src='https://findicons.com/files/icons/1982/social_me/60/linkedin.png' height='30' alt='linkedin-logo'/>](https://www.linkedin.com/in/subramanyam-sreshty-d-b16aa21b4/")
